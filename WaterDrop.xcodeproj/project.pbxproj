@@ -21,6 +21,7 @@
 		CDBFA89D184C811200ADD0EE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDBFA87F184C811200ADD0EE /* UIKit.framework */; };
 		CDBFA8A5184C811200ADD0EE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CDBFA8A3184C811200ADD0EE /* InfoPlist.strings */; };
 		CDBFA8A7184C811200ADD0EE /* WaterDropTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CDBFA8A6184C811200ADD0EE /* WaterDropTests.m */; };
+		CDBFA8B1184C883E00ADD0EE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CDBFA8B0184C883E00ADD0EE /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		CDBFA8A2184C811200ADD0EE /* WaterDropTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WaterDropTests-Info.plist"; sourceTree = "<group>"; };
 		CDBFA8A4184C811200ADD0EE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CDBFA8A6184C811200ADD0EE /* WaterDropTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WaterDropTests.m; sourceTree = "<group>"; };
+		CDBFA8B0184C883E00ADD0EE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		CDBFA881184C811200ADD0EE /* WaterDrop */ = {
 			isa = PBXGroup;
 			children = (
+				CDBFA8B0184C883E00ADD0EE /* README.md */,
 				CDBFA88A184C811200ADD0EE /* AppDelegate.h */,
 				CDBFA88B184C811200ADD0EE /* AppDelegate.m */,
 				CDBFA88D184C811200ADD0EE /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				CDBFA894184C811200ADD0EE /* Images.xcassets in Resources */,
 				CDBFA886184C811200ADD0EE /* InfoPlist.strings in Resources */,
+				CDBFA8B1184C883E00ADD0EE /* README.md in Resources */,
 				CDBFA88F184C811200ADD0EE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
